@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

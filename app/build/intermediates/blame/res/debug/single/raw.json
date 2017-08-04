@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/res/merged/debug/raw/haarcascade_nexus.xml",
+        "source": "/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/res/raw/haarcascade_nexus.xml"
+    },
+    {
+        "merged": "/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/res/merged/debug/raw/banana_classifier.xml",
+        "source": "/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/res/raw/banana_classifier.xml"
+    },
+    {
+        "merged": "/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/res/merged/debug/raw/apple.xml",
+        "source": "/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/res/raw/apple.xml"
+    },
+    {
+        "merged": "/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/res/merged/debug/raw/frontalface.xml",
+        "source": "/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/res/raw/frontalface.xml"
+    }
+]

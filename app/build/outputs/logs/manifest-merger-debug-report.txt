@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:2:5-50
+		INJECTED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:4:5-65
+	android:name
+		ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:4:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#ANDROID.PERMISSION.READ_EXTERNAL_STORAGE
+ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:7:22-65
+uses-feature#android.hardware.camera
+ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:9:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:10:19-67
+uses-feature#android.hardware.camera.front
+ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:11:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:12:19-73
+application
+ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:14:5-30:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/ceng/.android/build-cache/e1ea81042f9c588e891d0d91a236be9462522271/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/ceng/.android/build-cache/8317d91acd14f74bc80423bce2505dc83fc5f222/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/ceng/.android/build-cache/410d11214504fe4415175eaf318d4c9896713a82/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/ceng/.android/build-cache/7e230d0f0a83e2cdd2639220efdb52b11c6b4735/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/ceng/.android/build-cache/90b99afab4422d8b4b0315e7c0e39e486157d654/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/ceng/.android/build-cache/dac70de60ffbc08ec97656fef010453c36740200/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/ceng/.android/build-cache/216a02cc9ccb2f290b84663db00aec4308bddf33/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/ceng/.android/build-cache/74b578a4eea5b246466fa36595da0a8f5dbf0328/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/ceng/.android/build-cache/feb37753a7a603df51ed0c7db7a43858ad50e20a/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:20:9-35
+	android:roundIcon
+		ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:19:9-54
+	android:allowBackup
+		ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:16:9-43
+	android:largeHeap
+		ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:18:9-33
+	android:theme
+		ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:21:9-40
+activity#org.bytedeco.javacv.android.example.OpenCvActivity
+ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:23:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/ceng/.android/build-cache/e1ea81042f9c588e891d0d91a236be9462522271/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/ceng/.android/build-cache/8317d91acd14f74bc80423bce2505dc83fc5f222/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/ceng/.android/build-cache/410d11214504fe4415175eaf318d4c9896713a82/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/ceng/.android/build-cache/7e230d0f0a83e2cdd2639220efdb52b11c6b4735/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/ceng/.android/build-cache/90b99afab4422d8b4b0315e7c0e39e486157d654/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/ceng/.android/build-cache/dac70de60ffbc08ec97656fef010453c36740200/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/ceng/.android/build-cache/216a02cc9ccb2f290b84663db00aec4308bddf33/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/ceng/.android/build-cache/74b578a4eea5b246466fa36595da0a8f5dbf0328/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/ceng/.android/build-cache/feb37753a7a603df51ed0c7db7a43858ad50e20a/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/ceng/.android/build-cache/e1ea81042f9c588e891d0d91a236be9462522271/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/ceng/.android/build-cache/e1ea81042f9c588e891d0d91a236be9462522271/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/ceng/.android/build-cache/8317d91acd14f74bc80423bce2505dc83fc5f222/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/ceng/.android/build-cache/410d11214504fe4415175eaf318d4c9896713a82/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/ceng/.android/build-cache/7e230d0f0a83e2cdd2639220efdb52b11c6b4735/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/ceng/.android/build-cache/90b99afab4422d8b4b0315e7c0e39e486157d654/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/ceng/.android/build-cache/dac70de60ffbc08ec97656fef010453c36740200/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/ceng/.android/build-cache/216a02cc9ccb2f290b84663db00aec4308bddf33/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/ceng/.android/build-cache/74b578a4eea5b246466fa36595da0a8f5dbf0328/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/ceng/.android/build-cache/feb37753a7a603df51ed0c7db7a43858ad50e20a/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/ceng/.android/build-cache/e1ea81042f9c588e891d0d91a236be9462522271/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/ceng/.android/build-cache/e1ea81042f9c588e891d0d91a236be9462522271/output/AndroidManifest.xml:26:9-47

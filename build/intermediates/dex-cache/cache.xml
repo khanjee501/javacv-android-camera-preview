@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.gradle/caches/modules-2/files-2.1/org.bytedeco/javacpp/1.3.2/bdc84b145941d3da85afaefe69e03d0a9caf2797/javacpp-1.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdc84b145941d3da85afaefe69e03d0a9caf2797">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/javacpp-1.3.2_7094f0a95489a2105d9d3dea31b61a139e131674.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.gradle/caches/modules-2/files-2.1/org.bytedeco.javacpp-presets/librealsense/1.9.6-1.3/a38afba003c895652db9f29f7e014e451a73a0b4/librealsense-1.9.6-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a38afba003c895652db9f29f7e014e451a73a0b4">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/librealsense-1.9.6-1.3_0f26c6c5258013cd231027190593151601bc0df8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_ad661c5b0186d3ac2335bb5282901726adf7f590.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.gradle/caches/modules-2/files-2.1/org.bytedeco.javacpp-presets/opencv/3.2.0-1.3/d442ea90d190e680d8c6f18469aaeaed26c00c77/opencv-3.2.0-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d442ea90d190e680d8c6f18469aaeaed26c00c77">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/opencv-3.2.0-1.3_5c7f8d2ddd5d59714f1e52cd14dd0f6418eed9ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.gradle/caches/modules-2/files-2.1/org.bytedeco.javacpp-presets/ffmpeg/3.2.1-1.3/2b506fefac100e50800bb1b5908d7588ab21fb45/ffmpeg-3.2.1-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b506fefac100e50800bb1b5908d7588ab21fb45">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/ffmpeg-3.2.1-1.3_6ca144e8c819af725657657815b973ec285c6afd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.gradle/caches/modules-2/files-2.1/org.bytedeco.javacpp-presets/videoinput/0.200-1.3/f30b2cba25b56af3a60a679775016537fda37c41/videoinput-0.200-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f30b2cba25b56af3a60a679775016537fda37c41">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/videoinput-0.200-1.3_c05cfe74dc2c043c047136e81f6706deb80dc27f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.gradle/caches/modules-2/files-2.1/org.bytedeco.javacpp-presets/libfreenect2/0.2.0-1.3/afd5363d196de86fece4e138ced9d624e0eab5b2/libfreenect2-0.2.0-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="afd5363d196de86fece4e138ced9d624e0eab5b2">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/libfreenect2-0.2.0-1.3_88bcfa7578b5499e0cf1005a6b8b384dfa9f348b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.android/build-cache/216a02cc9ccb2f290b84663db00aec4308bddf33/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/classes_90dcf33d066258010536fbe228bf2dfb760f6085.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.android/build-cache/dac70de60ffbc08ec97656fef010453c36740200/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/classes_e17c683e5dec049b89abf9c95d08eb9ccab75144.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.android/build-cache/410d11214504fe4415175eaf318d4c9896713a82/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/classes_c417b70859000d10ab3ece77fc506b8192d1e143.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.android/build-cache/8317d91acd14f74bc80423bce2505dc83fc5f222/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/classes_c826ca7d97b6cae1010129bb03f05e70d335d1c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.android/build-cache/74b578a4eea5b246466fa36595da0a8f5dbf0328/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/classes_4d4a56890ef9d806a462e06a7cff11f31c1c5ddd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.android/build-cache/feb37753a7a603df51ed0c7db7a43858ad50e20a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/classes_58da856cb6695c19d679c8212889d6ea4789ee73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.android/build-cache/7e230d0f0a83e2cdd2639220efdb52b11c6b4735/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/classes_768a85e18611ec06b2a143ad8ccee302c65b90f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.gradle/caches/modules-2/files-2.1/org.bytedeco.javacpp-presets/libfreenect/0.5.3-1.3/ea7981fbc3eba3cf3d8c1b8492d1952b85d20068/libfreenect-0.5.3-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea7981fbc3eba3cf3d8c1b8492d1952b85d20068">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/libfreenect-0.5.3-1.3_672489b958c79312e6741f1ffcaa3060db6b9e83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.android/build-cache/90b99afab4422d8b4b0315e7c0e39e486157d654/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/classes_31e30a19b1e683e61df6bb989fbb69547a51d8d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.gradle/caches/modules-2/files-2.1/org.bytedeco.javacpp-presets/libdc1394/2.2.4-1.3/e702de628164ba633e77f3b4a4a16a0c402ce364/libdc1394-2.2.4-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e702de628164ba633e77f3b4a4a16a0c402ce364">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/libdc1394-2.2.4-1.3_6b97459049fa155ecf82dc4e7b4fcd54101b5a49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.gradle/caches/modules-2/files-2.1/org.bytedeco.javacpp-presets/flycapture/2.9.3.43-1.3/bb48ed01be621b6b38b91d45a96e68e7ad7bf25e/flycapture-2.9.3.43-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb48ed01be621b6b38b91d45a96e68e7ad7bf25e">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/flycapture-2.9.3.43-1.3_ec957d35207d61fc723470f3641c2d7ec76dfe26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.gradle/caches/modules-2/files-2.1/org.bytedeco.javacpp-presets/artoolkitplus/2.3.1-1.3/543bf47572afc2f02c30f125d77019b1306e82d1/artoolkitplus-2.3.1-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="543bf47572afc2f02c30f125d77019b1306e82d1">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/artoolkitplus-2.3.1-1.3_2291346bbaa36cdd1fde04f13e7bb413cef217bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.gradle/caches/modules-2/files-2.1/org.bytedeco.javacpp-presets/flandmark/1.07-1.3/e5cd132c846b296edc8eee43c596583adfd151de/flandmark-1.07-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5cd132c846b296edc8eee43c596583adfd151de">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/flandmark-1.07-1.3_a1b9300433e9bac6df78399a69b9c09a5b141cbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.gradle/caches/modules-2/files-2.1/org.bytedeco/javacv/1.3.2/d76e8a520de311610f6bbd2942e52c79895e7a96/javacv-1.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d76e8a520de311610f6bbd2942e52c79895e7a96">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/javacv-1.3.2_546c602878767dbfd77cca57aec86ca1d8ac30af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ceng/.android/build-cache/e1ea81042f9c588e891d0d91a236be9462522271/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/pre-dexed/debug/classes_9fbc817995a941afa0e1e1058d947f140ba7e3e6.jar" />
+    </item>
+
+</items>

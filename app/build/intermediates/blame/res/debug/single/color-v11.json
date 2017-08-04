@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/ceng/.android/build-cache/e1ea81042f9c588e891d0d91a236be9462522271/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/ceng/Downloads/sample-projects-master/javacv-android-camera-preview/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/ceng/.android/build-cache/e1ea81042f9c588e891d0d91a236be9462522271/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
